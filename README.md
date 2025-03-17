@@ -4,14 +4,14 @@
 
 ### Clone the repo into your home directory:
 ``` sh
-cd $HOME && git clone git@github.com/ptuckett86/mac_scripts
+cd $HOME && git clone git@github.com:ptuckett86/mac_scripts.git
 ```
 
 ### Mac Setup instructions:
 This will add a new ssh key to your github so you can clone repos and push/pull changes.
 
 1. Download the add ssh key script from here:
-https://github.com/ptuckett86/mac_scripts/Scripts/add_ssh_key.sh
+[https://github.com/ptuckett86/mac_scripts/Scripts/add_ssh_key.sh](https://github.com/ptuckett86/mac_scripts/blob/master/Scripts/add_ssh_key.sh)
 
 2. Run the script:
 ``` sh
