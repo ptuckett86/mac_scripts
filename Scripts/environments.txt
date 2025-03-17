@@ -1,0 +1,10 @@
+sandbox-01:5433
+sandbox-02:5434
+sandbox-03:5435
+sandbox-04:5436
+sandbox-05:5437
+sandbox-06:5438
+sandbox-07:5439
+sandbox-08:5440
+sandbox-09:5441
+staging:5432
