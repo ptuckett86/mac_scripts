@@ -3,6 +3,10 @@ echo "Installing brew"
 brew --version
 brew update
 
+export 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> $HOME/.zshrc
+
+source $HOME/.zshrc
+
 echo "Installing pyenv"
 brew install pyenv
 
